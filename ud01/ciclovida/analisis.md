@@ -32,7 +32,7 @@ Non fai falta.
 ## Contorno de traballo
 
 > sudo apt install kotlin
-
+gradle java
 Co arquivo `Hello.kt`
 
 ```kotlin
