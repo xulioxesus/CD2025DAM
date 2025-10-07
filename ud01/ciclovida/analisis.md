@@ -28,3 +28,23 @@ Crear executable e mandalo por correo.
 # Mantemento
 
 Non fai falta.
+
+## Contorno de traballo
+
+> sudo apt install kotlin
+
+Co arquivo `Hello.kt`
+
+```kotlin
+fun main() {
+    println("Hello, Kotlin!")
+}
+```
+
+Compilar con:
+
+> kotlinc Hello.kt -include-runtime -d Hello.jar
+
+Executar
+
+> java -jar Hello.jar
