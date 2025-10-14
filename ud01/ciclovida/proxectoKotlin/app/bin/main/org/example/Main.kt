@@ -8,7 +8,7 @@ fun main() {
     vista.mostrarMensaxe("Escribe 'saír' para rematar o programa.\n")
 
     while (true) {
-        val entradaA = vista.pedirEntrada("Introduce o primeiro número (ou 'saír'): ")
+        val entradaA = vista.pedirEntrada("Introduce o primeiro número (ou 'exit'): ")
         if (entradaA == null || entradaA == "exit") break
         val a = entradaA.toDoubleOrNull()
         if (a == null) {
