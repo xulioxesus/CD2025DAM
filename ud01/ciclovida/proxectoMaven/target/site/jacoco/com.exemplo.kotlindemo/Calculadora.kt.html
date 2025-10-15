@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Calculadora.kt</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">KotlinDemo</a> &gt; <a href="index.source.html" class="el_package">com.exemplo.kotlindemo</a> &gt; <span class="el_source">Calculadora.kt</span></div><h1>Calculadora.kt</h1><pre class="source lang-java linenums">package com.exemplo.kotlindemo
+
+<span class="fc" id="L3">class Calculadora {</span>
+<span class="fc" id="L4">    fun sumar(a: Double, b: Double): Double = a + b</span>
+<span class="fc" id="L5">    fun restar(a: Double, b: Double): Double = a - b</span>
+<span class="fc" id="L6">    fun multiplicar(a: Double, b: Double): Double = a * b</span>
+    fun dividir(a: Double, b: Double): Double {
+<span class="fc bfc" id="L8" title="All 4 branches covered.">        if (b == 0.0) throw IllegalArgumentException(&quot;Non se pode dividir entre cero&quot;)</span>
+<span class="fc" id="L9">        return a / b</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.11.202310140853</span></div></body></html>
