@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-10-14T11:08:48.390Z" hostname="CDDeveloper2024" time="0.004">
+  <properties/>
+  <testcase name="testExecucionBasica()" classname="MainTest" time="0.004"/>
+  <testcase name="testInstanciacion()" classname="MainTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

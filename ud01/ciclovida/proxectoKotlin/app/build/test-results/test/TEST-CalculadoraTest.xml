@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-14T11:08:48.356Z" hostname="CDDeveloper2024" time="0.032">
+  <properties/>
+  <testcase name="testSumar()" classname="CalculadoraTest" time="0.015"/>
+  <testcase name="testMultiplicar()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="testDividirPorCero()" classname="CalculadoraTest" time="0.015"/>
+  <testcase name="testDividir()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="testRestar()" classname="CalculadoraTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VistaCalculadoraTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-10-14T11:08:48.395Z" hostname="CDDeveloper2024" time="0.006">
+  <properties/>
+  <testcase name="testMostrarResultado()" classname="VistaCalculadoraTest" time="0.005"/>
+  <testcase name="testMostrarMensaxe()" classname="VistaCalculadoraTest" time="0.001"/>
+  <testcase name="testMostrarErro()" classname="VistaCalculadoraTest" time="0.0"/>
+  <system-out><![CDATA[Resultado: 42.0
+
+Proba de mensaxe
+Erro: Erro de proba
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
