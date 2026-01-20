@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c385560e-b679-4d20-a060-d9f671b6468e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/dependency-reduced-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/src/test/kotlin/com/exemplo/kotlindemo/CalculadoraTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/src/test/kotlin/com/exemplo/kotlindemo/CalculadoraTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/KotlinDemo-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/original-KotlinDemo-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/site/jacoco/jacoco.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/CalculadoraTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/CalculadoraTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/MainTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/MainTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/TEST-CalculadoraTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/TEST-CalculadoraTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/TEST-MainTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/TEST-MainTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/TEST-VistaCalculadoraTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ud01/ciclovida/proxectoMaven/target/surefire-reports/TEST-VistaCalculadoraTest.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c385560e-b679-4d20-a060-d9f671b6468e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="36Hsbkbipd4tVxdfBmIH2I1inh1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,7 +25,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/vagrant/Desktop/repos/CD2025"
+    "last_opened_file_path": "/home/vagrant/Desktop/repos/CD2025DAM"
   }
 }]]></component>
   <component name="TaskManager">
@@ -51,5 +37,16 @@
       <updated>1764674906624</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
