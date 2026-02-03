@@ -1,0 +1,13 @@
+classDiagram
+
+class Pedido {
+  +id : String
+}
+
+class Artigo {
+  +id : String
+  +descricion : String
+  +prezo : Decimal
+}
+
+Pedido "1" --> "1..*" Artigo : contén
