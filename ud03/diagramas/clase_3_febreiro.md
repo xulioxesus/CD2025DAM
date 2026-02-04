@@ -1,6 +1,8 @@
 ```mermaid
 classDiagram
 
+  direction LR
+
 class Pedido {
   +id : String
 }
@@ -11,7 +13,7 @@ class Artigo {
   +prezo : Decimal
 }
 
-Pedido "1" --> "1..*" Artigo : contén
+Pedido "0..*" -- "0..*" Artigo : contén
 ```
 
 ```mermaid
