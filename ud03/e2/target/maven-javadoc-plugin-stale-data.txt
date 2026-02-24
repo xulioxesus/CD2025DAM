@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'e2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'e2 1.0-SNAPSHOT API'
+com.example
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/src/main/java = 1770721786850
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/allpackages-index.html = 1771935630568
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/tag-search-index.js = 1771935630569
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/index-all.html = 1771935630577
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/allclasses-index.html = 1771935630567
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/type-search-index.js = 1771935630569
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/search.js = 1771935630581
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/overview-tree.html = 1771935630561
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/package-search-index.js = 1771935630569
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/jquery-ui.overrides.css = 1771935630582
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/member-search-index.js = 1771935630569
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/stylesheet.css = 1771935630580
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/script.js = 1771935630581
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/element-list = 1771935630539
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/index.html = 1771935630578
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/module-search-index.js = 1771935630569
+/home/vagrant/Desktop/repos/CD2025DAM/ud03/e2/target/reports/apidocs/help-doc.html = 1771935630580

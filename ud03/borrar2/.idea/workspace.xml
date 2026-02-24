@@ -1,4 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48c18bb3-4b94-40a5-8739-412d9c4320db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../borrar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/com/example/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/src/main/java/com/example/frameOne.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../borrar/src/main/java/com/example/frameOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/jvm.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/maven.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../e2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/src/main/java/com/example/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../e2/src/main/java/com/example/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/CicloFormativo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/CompetenciaProfesional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Examen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/ModuloFormativo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Pregunta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Profesor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Tarea.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="3A7E8APIXIylRUcGME5xsFN27aF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48c18bb3-4b94-40a5-8739-412d9c4320db" name="Changes" comment="" />
+      <created>1771935048108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771935048108</updated>
+    </task>
+    <servers />
+  </component>
 </project>

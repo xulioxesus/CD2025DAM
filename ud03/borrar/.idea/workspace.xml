@@ -1,4 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6a42b53-d27b-440e-b571-d011050a2b35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/example/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/frameOne.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/frameOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codificar_diagram_clases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../e2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/src/main/java/com/example/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../e2/src/main/java/com/example/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e2/target/classes/com/example/Alumno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../e2/target/classes/com/example/Alumno.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xulioxesus"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xulioxesus/CD2025DAM.git",
+    "accountId": "4af1f591-77b4-423b-9521-02c3b719b167"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="3A7Dn7sQJsWR9phbn1UzmHhuc7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a42b53-d27b-440e-b571-d011050a2b35" name="Changes" comment="" />
+      <created>1771934881191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771934881191</updated>
+    </task>
+    <servers />
+  </component>
 </project>
