@@ -1,6 +1,7 @@
 package com.example;
 
-public import java.util.*; import java.io.*; // imports en la misma línea + wildcard
+import java.util.*;
+import java.io.*; // imports en la misma línea + wildcard
 
 public class alumnoManager{  // nombre de clase no CamelCase
 
@@ -19,6 +20,5 @@ public String toString( ) {   return "AlumnoManager{Nombre="+Nombre+", contador=
 
 public void setNombre(String Nombre){ this.Nombre=Nombre; } // parámetro mismo nombre + mayúscula
 public String getNombre(){return Nombre;} // sin espacios
-} alumnoManager {
     
 }

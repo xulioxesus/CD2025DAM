@@ -71,5 +71,32 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <plugins>
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-checkstyle-plugin</artifactId>
+      <version>3.3.1</version>
+
+      <configuration>
+        <!-- Puedes cambiarlo por tu propio checkstyle.xml -->
+        <configLocation>google_checks.xml</configLocation>
+        <encoding>UTF-8</encoding>
+        <consoleOutput>true</consoleOutput>
+        <failsOnError>true</failsOnError>
+        <violationSeverity>warning</violationSeverity>
+        <linkXRef>false</linkXRef>
+      </configuration>
+
+      <executions>
+        <execution>
+          <id>validate</id>
+          <phase>compile</phase>
+          <goals>
+            <goal>check</goal>
+          </goals>
+        </execution>
+      </executions>
+    </plugin>
+  </plugins>
   </build>
 </project>
