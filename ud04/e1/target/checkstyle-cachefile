@@ -1,4 +1,6 @@
-#Tue Mar 03 12:09:58 CET 2026
+#Tue Mar 10 12:33:25 CET 2026
+/home/vagrant/Desktop/repos/CD2025DAM/ud04/e1/src/main/java/com/example/AlumnoManager.java=1773142397016
+/home/vagrant/Desktop/repos/CD2025DAM/ud04/e1/src/main/java/com/example/Utils.java=1773142089481
 configuration*?=CC850E7A84997CD2208083EA5B76D0108A5058A8
-module-resource*?\:checkstyle-xpath-suppressions.xml=31DD0AAD8806F54B3238A0646ED1C592986AB437
-module-resource*?\:checkstyle-suppressions.xml=B3B24E503E503834A1062B044DF4D140F1AE63E9
+module-resource*?\:checkstyle-suppressions.xml=D91FB5BF2AF5481250300D0902D283E1DF107E96
+module-resource*?\:checkstyle-xpath-suppressions.xml=618DEF058A7A2E03ED4062CD81621A8D1F52776E
