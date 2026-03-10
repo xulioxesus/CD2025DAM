@@ -1,5 +1,7 @@
 package com.example;
 
+import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Sesion {
@@ -8,7 +10,7 @@ public class Sesion {
     public String titulo;
 
     private List<Participante> participantes = new ArrayList<>();
-    private List<Artigos> artigos = new ArrayList<>()   ;
+    private List<Artigo> artigos = new ArrayList<>()   ;
 
     public Sesion(LocalDate data, String horaInicio, String titulo) {
         this.data = data;
@@ -24,11 +26,11 @@ public class Sesion {
         this.participantes.remove(participante);
     }
 
-    public void presentar(Artigos artigo) {
+    public void presentar(Artigo artigo) {
         this.artigos.add(artigo);
     }
 
-    public void noPresentar(Artigos artigo) {
+    public void noPresentar(Artigo artigo) {
         this.artigos.remove(artigo);
     }
 }

@@ -25,6 +25,7 @@ class Participante {
 class Artigo {
   +String titulo
   +String tema
+  +String tipo
 }
 
 class Autor {
@@ -37,9 +38,9 @@ class Autor {
 Conferencia "1" --* "0..*" Sesion
 
 Participante "0..*" -- "0..*" Sesion: participar
-Participante -- Conferencia: inscribir/cancelar
+Participante "0..*" -- "0..*" Conferencia: inscribir/cancelar
 
-Sesion "1..*" -- "0..*" Artigo : presentar
+Sesion "1..*" -- "1..*" Artigo : presentar
 
 Autor "1..*" -- "1..*" Artigo : agregar/eliminar
 ```
